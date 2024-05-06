@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yang Yuxin and I am currently pursuing a Master's degree in Artificial Intelligence at the University of Hong Kong. My research interests include computer vision and AIGC.
+My name is Yuxin Yang and I am currently pursuing a Master's degree in Artificial Intelligence at the University of Hong Kong. My research interests include computer vision and AIGC.
 
